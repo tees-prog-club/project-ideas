@@ -1,4 +1,4 @@
-#Student's name, ID, and github username
+#Student(s)'s name(s), ID, and github username(s)
 
 John Smith, x999999, jff
 
