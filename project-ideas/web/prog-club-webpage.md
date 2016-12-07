@@ -1,6 +1,6 @@
 #Student(s)'s name(s), ID, and github username(s)
 
-John Smith, x999999, jff
+John Smith, x999999, jff, Michael Barley
 
 #Short description of project
 
