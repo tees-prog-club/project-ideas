@@ -12,9 +12,11 @@ The big difference is that this ledger isn't stored in one place, it's distribut
 
 This project is all about discovering more about this technology! In particular, the idea is to develop a web service based on the Ethereum Blockchain. As a starting point, investigate the service [Lottereo](http://lottereo.com) and [its implementation](https://github.com/glynnbird/lottereum). One of the authors, Glynn Bird will visit us and deliver a guest talk!
 
+Alternatively, you can also investigate [Ascribe's API](http://docs.ascribe.apiary.io) and develop services on top os [Ascribe](https://www.ascribe.io). The focus on Ascribe would be particularly relevant for Computer Games programmers.
+
 #Technologies used for this project
 
-Any
+Blockchain
 
 #Motivation to do this project
 
