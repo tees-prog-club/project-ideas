@@ -1,7 +1,7 @@
 #Student(s)'s name(s), ID, and github username(s)
 
 John Smith, x999999, jff
-Michael Barley, P4002720, BarleyMichael 
+Michael Barley, p4002720, BarleyMichael 
 
 #Short description of project
 
