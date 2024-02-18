@@ -1,8 +1,8 @@
-#Student(s)'s name(s), ID, and github username(s)
+# Student(s)'s name(s), ID, and github username(s)
 
 John Smith, x999999, jff
 
-#Short description of project
+## Short description of project
 
 [A blockchain](https://en.wikipedia.org/wiki/Blockchain_(database)) is a distributed database that maintains a continuously-growing list of ordered records called blocks. Essentially,
 blockchain is a method of recording data - a digital ledger of transactions, agreements, contracts - anything that needs to be independently recorded and verified as having happened.
@@ -14,10 +14,10 @@ This project is all about discovering more about this technology! In particular,
 
 Alternatively, you can also investigate [Ascribe's API](http://docs.ascribe.apiary.io) and develop services on top os [Ascribe](https://www.ascribe.io). The focus on Ascribe would be particularly relevant for Computer Games programmers.
 
-#Technologies used for this project
+## Technologies used for this project
 
 Blockchain
 
-#Motivation to do this project
+## Motivation to do this project
 
 Blockchain is causing a stir around the world and promises to revolutionise many current transactional services. It is likely that the technology will be prevalent in a few years time. By learning how to develop services based on Blockchain now will give you a competitive advantage.
